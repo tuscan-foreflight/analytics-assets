@@ -8,7 +8,7 @@ Welcome to the Analytics Airflow DAG Assets repository! Use this repo to add any
 	    •	Place your image files in the images/ folder.
 	2.	Resize Your Images:
 	    •	Recommended Size: JPEGs at 300x300 pixels.
-	    •	Resize Easily: Use Image Resizer to adjust your image dimensions.
+	    •	Resize Easily: Use https://imageresizer.com/ to adjust your image dimensions.
 	3.	Commit Your Images:
 	    •	Simply commit the image to the repository.
 (No need for Pull Requests!)
